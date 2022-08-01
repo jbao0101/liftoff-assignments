@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The project we are working on is a Lost and Found Pets web app that will allow users to post about their lost and/or found pets onto a social network for others to interact with and share. 
+
 ### Features
-Include Features here
+-User login
+-Social board interactions (comments, upvotes, etc.)
+-Google maps integration
+-Contact form
 ### Technologies
-Include Technologies here
+Java, Angular, MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+Will have to learn how to implement Java into Angular framework. Will have to learn how to implement social media interactions and google maps api.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/userworkspacefb34c7f0cf30c9e535d8faf8e69c3091
